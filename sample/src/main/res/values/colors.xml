@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="add_control_fade_out_animation_color">#FFFFFF</color>
+    <color name="add_control_ripple_animation_color">#44FFFFFF</color>
+</resources>

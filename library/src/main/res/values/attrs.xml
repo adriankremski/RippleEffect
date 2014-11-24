@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleView">
+        <attr name="rippleAnimationDuration" format="integer" />
+        <attr name="fadeOutAnimationDuration" format="integer" />
+        <attr name="rippleAnimationColor" format="integer" />
+        <attr name="fadeOutAnimationColor" format="integer" />
+        <attr name="fadeOutAnimationStartAlpha" format="integer" />
+    </declare-styleable>
+</resources>

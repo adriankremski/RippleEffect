@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.kremski.android.material.RippleButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#BA061B"
+        android:text="Red button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        ripple:fadeOutAnimationColor="@color/add_control_fade_out_animation_color"
+        ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
+        ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
+        ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
+
+    <com.kremski.android.material.RippleButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#009653"
+        android:text="Green button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        ripple:fadeOutAnimationColor="@color/add_control_fade_out_animation_color"
+        ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
+        ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
+        ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
+
+    <com.kremski.android.material.RippleButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0053BF"
+        android:text="Blue button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        ripple:fadeOutAnimationColor="@color/add_control_fade_out_animation_color"
+        ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
+        ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
+        ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
+
+    <com.kremski.android.material.RippleRadioButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#BA061B"
+        android:text="Red button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        ripple:fadeOutAnimationColor="@color/add_control_fade_out_animation_color"
+        ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
+        ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
+        ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
+
+    <com.kremski.android.material.RippleRadioButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#009653"
+        android:text="Green button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        ripple:fadeOutAnimationColor="@color/add_control_fade_out_animation_color"
+        ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
+        ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
+        ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
+
+    <com.kremski.android.material.RippleRadioButton
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0053BF"
+        android:text="Blue button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        ripple:fadeOutAnimationColor="@color/add_control_fade_out_animation_color"
+        ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
+        ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
+        ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
+
+
+</LinearLayout>

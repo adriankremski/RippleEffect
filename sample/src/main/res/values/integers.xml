@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="fast_ripple_animation_duration">300</integer>
+    <integer name="fast_fade_out_animation_duration">500</integer>
+    <integer name="fade_out_animation_start_alpha">100</integer>
+    <integer name="slow_fade_out_animation_duration">700</integer>
+    <integer name="slow_ripple_animation_duration">500</integer>
+</resources>
