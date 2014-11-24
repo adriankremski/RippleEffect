@@ -17,7 +17,7 @@ dependencies {
 
 #### RippleButton/RippleRadioButton
 
-1. Declare buttons / radio buttons if one of the following classes.
+1. Declare buttons / radio buttons with one of the following classes.
 
 ``` xml
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -46,7 +46,7 @@ dependencies {
         ripple:fadeOutAnimationDuration="@integer/fast_fade_out_animation_duration"
         ripple:fadeOutAnimationStartAlpha="@integer/fade_out_animation_start_alpha"
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
-        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration/>
+        ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration"/>
 
 </LinearLayout>
 ```
