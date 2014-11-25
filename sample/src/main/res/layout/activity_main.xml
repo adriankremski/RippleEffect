@@ -6,7 +6,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.kremski.android.material.RippleButton
+    <com.github.snuffix.android.material.RippleButton
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="#BA061B"
@@ -19,7 +19,7 @@
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
         ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
 
-    <com.kremski.android.material.RippleButton
+    <com.github.snuffix.android.material.RippleButton
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="#009653"
@@ -32,7 +32,7 @@
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
         ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
 
-    <com.kremski.android.material.RippleButton
+    <com.github.snuffix.android.material.RippleButton
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="#0053BF"
@@ -45,7 +45,7 @@
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
         ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
 
-    <com.kremski.android.material.RippleRadioButton
+    <com.github.snuffix.android.material.RippleRadioButton
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="#BA061B"
@@ -58,7 +58,7 @@
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
         ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
 
-    <com.kremski.android.material.RippleRadioButton
+    <com.github.snuffix.android.material.RippleRadioButton
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="#009653"
@@ -71,7 +71,7 @@
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
         ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
 
-    <com.kremski.android.material.RippleRadioButton
+    <com.github.snuffix.android.material.RippleRadioButton
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="#0053BF"

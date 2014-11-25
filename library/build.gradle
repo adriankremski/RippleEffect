@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.kremski.android.material"
+        applicationId "com.github.snuffix.android.material"
         minSdkVersion 9
         targetSdkVersion 20
         versionCode 6

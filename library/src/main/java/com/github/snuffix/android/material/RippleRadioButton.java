@@ -1,4 +1,4 @@
-package com.kremski.android.material;
+package com.github.snuffix.android.material;
 
 import android.content.Context;
 import android.graphics.Canvas;

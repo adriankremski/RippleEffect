@@ -1,7 +1,9 @@
-package com.kremski.android.sample;
+package com.github.snuffix.android.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.github.snuffix.android.sample.R;
 
 
 public class MainActivity extends Activity {

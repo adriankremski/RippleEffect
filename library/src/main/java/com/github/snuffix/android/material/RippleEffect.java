@@ -1,4 +1,4 @@
-package com.kremski.android.material;
+package com.github.snuffix.android.material;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
@@ -12,6 +12,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.LinearInterpolator;
+
+import com.github.snuffix.android.material.R;
 
 public class RippleEffect {
 
