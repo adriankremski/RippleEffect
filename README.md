@@ -29,7 +29,7 @@ dependencies {
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-  <com.kremski.android.material.RippleButton
+  <com.github.snuffix.android.material.RippleButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#0053BF"
@@ -39,7 +39,7 @@ dependencies {
         ripple:rippleAnimationColor="@color/add_control_ripple_animation_color"
         ripple:rippleAnimationDuration="@integer/fast_ripple_animation_duration" />
 
-    <com.kremski.android.material.RippleButton
+  <com.github.snuffix.android.material.RippleButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#0053BF"
